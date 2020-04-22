@@ -1,7 +1,3 @@
-<!-- Name=Rishant Rokaha
-Date=8th March 2020
-Subject=ADV Web Programming
-Assignment=index.php -->
 
 <?php
 
