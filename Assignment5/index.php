@@ -1,7 +1,6 @@
 
 <!-- Name=Rishant Rokaha
 Class= ADV Web Programming
-Date= 19th April 2020
 Assignment5 -->
 <html>
 <head>
