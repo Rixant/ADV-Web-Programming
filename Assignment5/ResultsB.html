@@ -3,16 +3,17 @@
 Class= ADV Web Programming
 Date= 19th April 2020
 Assignment5 -->
+
 <html>
 <head>
-  <title> Calculate </title>
+  <title> Calculator </title>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
   <main>
-    <h1> Calculator </h1>
     <form action="display.php" method="post">
       <input type="hidden" name="action" value="process_data">
+      <h1> Calculator </h1>
 
       <b>Number 1:</b> <input name="num1" type="text"  size="10" /><br>
       <br>
@@ -26,9 +27,11 @@ Assignment5 -->
 <option value="Divide"><b>Division(/)</b></option>
 </select><br>
 <br>
-<input type="Submit" value="Calculate" />
+<input type="Submit" value="Calculate" /><br>
+<br>
+  <h2><b>Results: Please enter valid numbers</b></h2>
 
 
-      </main>
-    </body>
-    </html>
+  </main>
+</body>
+</html>
