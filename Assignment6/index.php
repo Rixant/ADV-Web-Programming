@@ -12,13 +12,7 @@ $message='Enter some data and click the submit button';
 
  $action=filter_input(INPUT_POST, 'action');
 
- // $days=array(1=>"Monday",
- //              2=>"Tuesday",
- //              3=>"Wednesday",
- //              4=>"Thursday",
- //              5=>"Friday",
- //              6=>"Saturday",
- //              7=>"Sunday")
+
 
 
  switch($action){
