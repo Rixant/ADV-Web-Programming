@@ -1,0 +1,63 @@
+/* Name=Rishant Rokaha
+Class= ADV Web Programming
+Date= 3rd April 2020
+Assignment6 */
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+  display: block;
+  width: 450px;
+  margin: 0 auto;
+  padding: 1em;
+  background: white;
+  border: 2px solid navy;
+
+}
+
+
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px dashed black;
+    padding: .2em .5em .2em .5em;
+    vertical-align: top;
+    text-align: left;
+}
+
+
+h1 h2{
+  margin-top: 0;
+  color: navy;
+}
+
+label{
+  width: 10em;
+  float: left;
+  padding-right: 1em;
+  padding-bottom: 0.5em;
+}
+
+#data input{
+  float: left;
+  width: 15em;
+  margin-bottom: 0.5em;
+}
+
+
+#data span{
+  padding-left: 0.25em;
+}
+
+#buttons input{
+  float: left;
+  margin-bottom: 0.5em;
+}
+
+br{
+  clear: left;
+}
